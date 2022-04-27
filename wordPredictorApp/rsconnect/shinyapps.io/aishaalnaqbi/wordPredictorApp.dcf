@@ -1,0 +1,13 @@
+name: wordPredictorApp
+title: wordPredictorApp
+username:
+account: aishaalnaqbi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6181769
+bundleId: 5841464
+url: https://aishaalnaqbi.shinyapps.io/wordPredictorApp/
+when: 1651042647.59361
+lastSyncTime: 1651042647.59361
+asMultiple: FALSE
+asStatic: FALSE
